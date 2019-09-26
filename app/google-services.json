@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390944379003",
+    "firebase_url": "https://eventer-app69.firebaseio.com",
+    "project_id": "eventer-app69",
+    "storage_bucket": "eventer-app69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390944379003:android:0d3629143cfb9c7c",
+        "android_client_info": {
+          "package_name": "com.example.eventer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390944379003-v31ascp8lhdc705300760j5hm32pjl4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventer",
+            "certificate_hash": "51ab7dad66ece994d5753f1765066c5ca578594c"
+          }
+        },
+        {
+          "client_id": "390944379003-pp67ol07blqd5emvju9npkqt1g12rdnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5VpLmh0hODb602FKTq_sFkPhnPXp1T3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390944379003-pp67ol07blqd5emvju9npkqt1g12rdnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
